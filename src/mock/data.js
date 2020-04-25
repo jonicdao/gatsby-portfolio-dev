@@ -47,7 +47,7 @@ export const projectsData = [
       "Who said only Twitter can make Twitter?  A fully-functional twitter clone where users can register/login, express their thoughts, like other people's thoughts, and share with others.",
     info2:
       'Built with Python from the ground up and using Flask, the site demonstrates basic CRUD operations and MVC model. Photo by Ochir-Erdene Oyunmedeg on Unsplash',
-    url: 'http://penny.josenicdao.com',
+    url: 'https://penny-for-your-thoughts.herokuapp.com/',
     repo: 'https://github.com/jonicdao/thoughts.git', // if no repo, the button will not show up
   },
   {
@@ -57,7 +57,7 @@ export const projectsData = [
     info:
       "A portfolio website that showcases a real photographer's works and services. The website displays galleries, contact form, and blog. I've worked as a professional photographer and I know the value of a landing page to attract and book leads.",
     info2: 'Showcasing great images using Django and Bootstrap. Photo by Roger Erdvig on Unsplash',
-    url: 'http://photos.josenicdao.com',
+    url: 'https://jose-nicdao-photography.herokuapp.com/gallery/',
     repo: 'https://github.com/jonicdao/photo-portfolio.git', // if no repo, the button will not show up
   },
 ];
